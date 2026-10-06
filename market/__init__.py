@@ -12,7 +12,7 @@ app.config['MYSQL_USER'] = db['mysql_user']
 app.config['MYSQL_PASSWORD'] = db['mysql_password']
 app.config['MYSQL_DB'] = db['mysql_db']
 my_sql = MySQL(app)
-from market import routes
+from market import routes #2
 
 
 
