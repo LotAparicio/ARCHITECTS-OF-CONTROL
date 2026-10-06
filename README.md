@@ -271,4 +271,4 @@ selects(Customer_ID, Category_ID)
 associated_With(Customer_ID, Cart_ID, Product_ID)
 delivery_boy(Delivery_Boy_ID, First_Name, Last_Name, Password, Mobile_No, Email, Average_Rating, Admin_ID)
 rates_order_delivery(Order_ID, Delivery_Boy_ID, Customer_ID, Rating_Given)
-offer(Offer_ID, Promo_Code, Percentage_Discount, Min_OrderValue, Max_Discount, Admin_ID).
+offer(Offer_ID, Promo_Code, Percentage_Discount, Min_OrderValue, Max_Discount, Admin_ID)
