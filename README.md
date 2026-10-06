@@ -2,7 +2,7 @@
 Hemos incorporado la base de datos en forma de una aplicación en la que hemos intentado asemejarla a un sitio web de comercio electrónico en funcionamiento, donde los usuarios, vendedores y administradores pueden trabajar como deseen en una plataforma de la vida real. Hemos creado el Front-end para habilitar la interfaz y la experiencia de usuario de la mejor manera posible. Aquí nuestros usuarios pueden interactuar realmente con nuestro sitio web y realizar los cambios que deseen según su alcance en el proyecto. Va desde la compra y venta para usuarios, hasta la realización de cambios para administradores y para que los vendedores vendan sus productos. También permite que el sitio funcione con todas las restricciones necesarias para establecer un sitio de comercio electrónico real. Hemos conectado la base de datos a nuestro sitio web actual, el cual mantiene el registro en consecuencia: si hacemos algún cambio básico, ocurre algún cambio en nuestra base de datos.
 
 ## El Equipo
-Todos nosotros somos estudiantes de licenciatura en Ciencias de la Computación en `IIIT Delhi`
+Todos nosotros somos estudiantes de Sistemas Computacionales en `ITMH`
 - Vibhor Agarwal
 - Anshak Goel
 - Pritish Poswal
