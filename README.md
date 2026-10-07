@@ -3,11 +3,11 @@ Hemos incorporado la base de datos en forma de una aplicación en la que hemos i
 
 ## El Equipo
 Todos nosotros somos estudiantes de Sistemas Computacionales en `ITMH`
-- Fancisco Lenoardo Hernandez Orosco
+- Fancisco Lenoardo Hernandez Orozco
 - Tonatiuh Lot Aparicio García
 - David Israel Alonzo Contreras 
 - Brian Jair Camacho Rodriguez
--  
+- Miguel Angel Alvizo Coronado
 
 ## Reporte del Proyecto
 Aquí encontrarás el [`Reporte`](https://drive.google.com/file/d/1gwSO9Enmp2_QrMFgUFrtEVAthKgwKdty/view?usp=sharing) más detallado que jamás obtendrás. Tiene hasta los detalles más minúsculos de nuestro proyecto.
